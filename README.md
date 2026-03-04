@@ -19,3 +19,5 @@ option:
 $ git commit -m "type: description"
 ```
 -``--amend``: memperbaiki pesan commit yang baru saja terjadi
+
+##**4. Remote Repository**
